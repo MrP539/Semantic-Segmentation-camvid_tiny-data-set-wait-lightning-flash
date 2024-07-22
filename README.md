@@ -1,5 +1,3 @@
-![metrics_plot](https://github.com/user-attachments/assets/bdd266ac-5ff1-42a0-9238-a363b1d5c139)**Python 3.9.19
-
 # CUDA 10.2
 conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=10.2 -c pytorch
 
